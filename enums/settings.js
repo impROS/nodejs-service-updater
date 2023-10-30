@@ -7,4 +7,5 @@ module.exports = {
     updated_at: "updated_at",
     service_status: "service_status",
     service_interval: "service_interval",
+    services: "services",
 }

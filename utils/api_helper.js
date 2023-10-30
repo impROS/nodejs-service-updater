@@ -1,5 +1,4 @@
 const axios = require('axios');
-const { BASE_URL } = require('./constants');
 const log = require('./log');
 const Constants = require('./constants');
 const sendRequest = async (customerData, method, url, data) => {
@@ -7,7 +6,7 @@ const sendRequest = async (customerData, method, url, data) => {
         const accessToken = customerData?.credentials?.data?.access_token;
         const config = {
             method,
-            url: BASE_URL + url,
+            url: url,
             headers: {
                 'x-access-token': accessToken,
             },
@@ -21,9 +20,9 @@ const sendRequest = async (customerData, method, url, data) => {
     }
 };
 
-const getSettings = async () => {
+const getSettings = async (endpoint) => {
     try {
-        return await sendRequest(null, 'get', Constants.Endpoints.SETTINGS);
+        return await sendRequest(null, 'get', endpoint);
     } catch (error) {
         log.error('getSettings Error:', error);
         throw error;

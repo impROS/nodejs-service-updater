@@ -8,22 +8,33 @@ const ApiHelper = require("./utils/api_helper");
 const ConfigHelper = require("./utils/config_helper");
 const Settings = require("./enums/settings");
 
-const downloadAndCheckExe = data => {
+const downloadAndCheckExe = async (data) => {
     try {
+        const {service_name, file_url} = data;
         const file = fs.createWriteStream(exePath);
-        https.get(data.windows_service_update_url, (response) => {
+        await https.get(file_url, (response) => {
             response.pipe(file);
-            response.on('end', () => {
-                file.close(stopService);
+            response.on('end', async () => {
+                file.close(stopService(service_name));
+
+                const config = await ConfigHelper.readConfigAsJson();
+                config.services = config.services.map((service) => {
+                    if (service.service_name === service_name) {
+                        service.version_number = data.version_number;
+                    }
+                    return service;
+                });
+                await ConfigHelper.writeConfig(config);
             });
         });
+
     } catch (e) {
         log.error("downloadAndCheckExe error: " + e);
     }
 };
 
-const stopService = () => {
-    const stopServiceCommand = 'net stop SERVICE_NAME';
+const stopService = (serviceName) => {
+    const stopServiceCommand = `net stop ${serviceName}`;
     child_process.exec(stopServiceCommand, (error, stdout) => {
         if (error) {
             log.error(`Servis durdurulurken hata oluştu: ${error.message}`);
@@ -35,14 +46,22 @@ const stopService = () => {
 
 const checkUpdate = async () => {
     try {
-        const result = await ApiHelper.getSettings();
-        const versionNumber = await ConfigHelper.readConfigValue(Settings.windows_service_version_number, 0);
+        const services = await ConfigHelper.readConfigValue(Settings.services, []);
 
-        if (result.data.windows_service_version_number > versionNumber && result.data.windows_service_update_required) {
-            downloadAndCheckExe(result.data);
+        for (const service of services) {
+            try {
+                let remoteSettings = await ApiHelper.getSettings(service.setting_url);
+                remoteSettings = remoteSettings.data;
+                console.log(remoteSettings);
+
+                if (remoteSettings.version_number > service.version_number && remoteSettings.is_update_required) {
+                    await downloadAndCheckExe(remoteSettings);
+                }
+            } catch (e) {
+                log.error("checkUpdate error: " + e);
+            }
         }
 
-        console.log(result.data);
     } catch (e) {
         log.error("checkUpdate error: " + e);
     }

@@ -36,8 +36,8 @@ const stopService = () => {
 const checkUpdate = async () => {
     try {
         const result = await ApiHelper.getSettings();
-        const config = ConfigHelper.readConfigAsJson();
-        const versionNumber = ConfigHelper.readConfigValue(Settings.windows_service_version_number, 0);
+        const config =await ConfigHelper.readConfigAsJson();
+        const versionNumber = await ConfigHelper.readConfigValue(Settings.windows_service_version_number, 0);
 
         if (result.data.windows_service_version_number > versionNumber && result.data.windows_service_update_required) {
             downloadAndCheckExe(result.data);

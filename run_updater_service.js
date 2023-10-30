@@ -1,8 +1,6 @@
-const fs = require('fs');
 const updaterService = require('./updater_service');
 const log = require("./utils/log");
 const SETTINGS = require("./enums/settings");
-const ConfigFile = require("./utils/config_helper");
 // const RemoteLog = require("./utils/remote_log");
 const ConfigHelper = require("./utils/config_helper");
 

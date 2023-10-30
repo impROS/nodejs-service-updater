@@ -1,0 +1,1 @@
+nexe -i ./run_updater_service.js -o ./build/UpdaterServicev1.exe -t windows-x64-14.15.1

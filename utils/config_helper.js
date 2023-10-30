@@ -1,19 +1,14 @@
-const fs = require("fs");
+const fs = require("fs").promises;
 const Constants = require("./constants");
 const log = require("../utils/log");
 
 const readConfigAsJson = async (filePath = Constants.CONFIG_PATH) => {
     try {
-        if (!fs.existsSync(filePath)) {
+        if (!await fileExists(filePath)) {
             await createConfigFile(filePath);
         }
-        const rawData = await fs.readFileSync(filePath, "utf8", (err) => {
-            if (err) {
-                log.error(`readConfigAsJson Error: ${err}`);
-            }else {
-                log.info(`readConfigAsJson Success: ${filePath}`);
-            }
-        });
+        const rawData = await fs.readFile(filePath, "utf8");
+        log.info(`readConfigAsJson Success: ${filePath}`);
         return JSON.parse(rawData);
     } catch (e) {
         log.error(`readConfigAsJson Error: ${e}`);
@@ -32,13 +27,8 @@ const createConfigFile = async (filePath = Constants.CONFIG_PATH) => {
     };
 
     try {
-        await fs.writeFileSync(filePath, JSON.stringify(config, null, 4), "utf8",(err) => {
-            if (err) {
-               log.error(`createConfigFile Error: ${err}`);
-            } else {
-                log.info(`createConfigFile Success: ${filePath}`);
-            }
-        });
+        await fs.writeFile(filePath, JSON.stringify(config, null, 4), "utf8");
+        log.info(`createConfigFile Success: ${filePath}`);
     } catch (e) {
         log.error(`createConfigFile Error: ${e}`);
         throw e;
@@ -46,31 +36,40 @@ const createConfigFile = async (filePath = Constants.CONFIG_PATH) => {
 };
 
 const readOrCreateConfig = async (filePath = Constants.CONFIG_PATH) => {
-    if (!fs.existsSync(filePath)) {
+    if (!await fileExists(filePath)) {
         await createConfigFile(filePath);
     }
     return await readConfigAsJson(filePath);
 };
 
-const writeConfig = async ( config,filePath = Constants.CONFIG_PATH) => {
+const writeConfig = async (config, filePath = Constants.CONFIG_PATH) => {
     try {
-        await fs.writeFileSync(filePath, JSON.stringify(config, null, 4), "utf8");
+        await fs.writeFile(filePath, JSON.stringify(config, null, 4), "utf8");
     } catch (e) {
         log.error(`writeConfig Error: ${e}`);
         throw e;
     }
 };
 
-const readConfigValue = async (key, defaultValue,filePath = Constants.CONFIG_PATH) => {
+const readConfigValue = async (key, defaultValue, filePath = Constants.CONFIG_PATH) => {
     try {
-        if (!fs.existsSync(filePath)) {
+        if (!await fileExists(filePath)) {
             await createConfigFile(filePath);
         }
-        const config = await readConfigAsJson(Constants.CONFIG_PATH);
+        const config = await readConfigAsJson(filePath);
         return config[key] !== undefined ? config[key] : defaultValue;
     } catch (e) {
         log.error(`readConfigValue Error: ${e}`);
         return defaultValue;
+    }
+};
+
+const fileExists = async filePath => {
+    try {
+        await fs.access(filePath);
+        return true;
+    } catch (error) {
+        return false;
     }
 };
 

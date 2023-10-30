@@ -24,6 +24,8 @@ const createConfigFile = async (filePath = Constants.CONFIG_PATH) => {
         windows_service_update_url: "",
         created_at: new Date(),
         updated_at: new Date(),
+        service_status: true,
+        service_interval: 1000 * 60 * 5,
     };
 
     try {

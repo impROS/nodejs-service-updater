@@ -3,15 +3,14 @@ const fs = require('fs');
 const https = require('https');
 const path = require('path');
 const log = require("./utils/log");
-const exePath = path.join(__dirname, 'your-app.exe');
 const ApiHelper = require("./utils/api_helper");
 const ConfigHelper = require("./utils/config_helper");
 const Settings = require("./enums/settings");
 
 const downloadAndCheckExe = async (data) => {
     try {
-        const {service_name, file_url} = data;
-        const file = fs.createWriteStream(exePath);
+        const {service_name, file_url, exe_full_path} = data;
+        const file = fs.createWriteStream(exe_full_path);
         await https.get(file_url, (response) => {
             response.pipe(file);
             response.on('end', async () => {

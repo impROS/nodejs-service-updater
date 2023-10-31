@@ -1,0 +1,488 @@
+10/31/2023 : 4:58:59 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 4:59:03 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 4:59:12 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 4:59:12 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 4:59:22 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 4:59:22 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 4:59:29 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 4:59:32 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 4:59:41 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 4:59:41 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 4:59:51 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 4:59:52 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:04:20 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:04:23 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:04:28 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:04:31 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:04:40 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:04:41 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:04:50 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:04:51 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:04:59 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:05:01 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:05:11 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:05:12 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:05:20 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:05:21 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:05:30 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:05:30 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:05:38 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:05:41 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:05:50 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:05:51 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:05:58 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:06:05 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:06:10 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:06:12 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:06:20 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:06:21 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:06:29 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:06:32 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:06:41 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:06:41 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:06:48 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:06:51 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:07:03 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:07:03 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:07:12 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:07:13 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:07:22 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:07:22 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:07:31 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:07:32 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:07:42 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:07:42 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:07:51 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:07:51 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:08:05 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:08:06 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:08:12 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:08:14 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:08:22 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:08:22 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:08:30 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:08:30 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:08:38 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:08:42 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:08:51 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:08:52 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:08:59 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:08:59 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:09:11 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:09:12 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:09:18 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:09:20 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:09:28 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:09:30 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:09:40 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:09:43 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:09:48 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:09:50 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:09:57 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:10:03 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:10:10 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:10:10 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:10:18 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:10:21 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:10:32 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:10:32 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:10:42 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:10:43 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:10:49 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:10:53 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:10:59 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:11:00 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:11:10 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:11:10 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:11:21 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:11:21 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:11:32 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:11:33 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:11:41 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:11:42 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:11:48 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:11:53 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:11:59 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:12:01 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:12:09 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:12:10 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:12:19 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:12:20 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:12:29 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:12:40 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:12:41 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:12:44 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:12:51 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:12:51 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:13:00 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:13:01 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:13:10 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:13:11 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:13:20 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:13:20 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:13:32 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:13:35 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:13:41 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:13:42 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:13:50 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:13:51 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:14:02 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:14:03 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:14:10 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:14:10 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:14:20 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:14:20 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:14:32 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:14:33 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:14:40 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:14:42 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:14:50 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:14:51 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:15:00 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:15:03 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:15:09 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:15:12 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:15:19 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:15:21 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:15:32 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:15:33 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:15:40 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:15:41 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:15:50 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:15:50 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:16:00 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:16:03 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:16:11 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:16:12 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:16:20 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:16:22 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:16:29 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:16:32 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:16:40 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:16:43 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:16:51 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:16:51 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:17:00 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:17:01 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:17:10 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:17:12 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:17:22 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:17:22 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:17:33 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:17:33 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:17:40 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:17:41 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:17:53 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:17:53 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:17:58 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:18:01 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:18:08 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:18:13 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:18:22 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:18:23 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:18:33 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:18:33 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:18:42 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:18:42 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:18:51 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:18:52 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:19:00 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:19:00 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:19:09 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:19:12 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:19:21 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:19:22 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:19:33 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:19:33 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:19:41 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:19:42 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:19:50 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:19:53 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:20:01 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:20:01 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:20:10 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:20:12 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:20:21 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:20:22 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:20:30 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:20:31 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:20:41 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:20:43 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:20:50 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:20:51 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:21:01 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:21:03 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:21:10 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:21:12 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:21:21 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:21:23 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:21:32 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:21:33 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:21:39 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:21:42 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:21:51 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:21:51 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:22:01 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:22:01 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:22:10 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:22:13 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:22:19 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:22:24 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:22:32 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:22:33 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:22:42 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:22:43 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:22:51 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:22:54 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:23:01 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:23:01 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:23:11 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:23:14 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:23:22 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:23:22 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:23:31 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+
+10/31/2023 : 5:23:33 PM => ["Servis durdurulurken hata oluştu: Command failed: net stop TEST_EXE\nThe TEST_EXE service is not started.\r\n\r\nMore help is available by typing NET HELPMSG 3521.\r\n\r\n"]
+

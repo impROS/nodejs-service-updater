@@ -1,0 +1,18 @@
+{
+    "windows_service_version_number": 0,
+    "windows_service_update_required": false,
+    "windows_service_update_required_message": "",
+    "windows_service_update_url": "",
+    "created_at": "2023-10-30T09:50:26.201Z",
+    "updated_at": "2023-10-30T09:50:26.201Z",
+    "services": [
+        {
+            "version_number": 0,
+            "is_update_required": true,
+            "update_message": "Güncelleme Var",
+            "file_url": "https://dl5.filehippo.com/9fa/11a/63b43f83980e0b48dc9ba2cb59d545a4e8/7z1900-x64.exe?Expires=1697066703&Signature=b109b60cd5b1987117c462766faecb74430f503e&url=https://filehippo.com/download_7zip-64/&Filename=7z1900-x64.exe",
+            "setting_url": "https://www.tahsil.ist/api/settings",
+            "service_name": "test"
+        }
+    ]
+}

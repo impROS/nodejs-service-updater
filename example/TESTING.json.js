@@ -1,4 +1,4 @@
-const Log = require('./utils/log');
+const Log = require('../utils/log');
 
 Log.info("Test info")
 Log.debug("Test debug")

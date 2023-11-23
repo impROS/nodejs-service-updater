@@ -8,7 +8,7 @@ const log = require("./utils/log");
 const ApiHelper = require("./utils/api_helper");
 const ConfigHelper = require("./utils/config_helper");
 const Settings = require("./enums/settings");
-const {runCommand} = require("./ExeHelper");
+const {runCommand} = require("./utils/exe_helper");
 
 const downloadAndCheckExe = async (data) => {
     try {
